@@ -1,0 +1,172 @@
+ 																
+Yunara Yunara	14	47	87%	10	4	71%	5.4	3.8	1.43	32:31	9.2	777	473	-1.6	390	49
+Orianna Orianna	17	38	76%	10	7	59%	4.8	3.9	1.47	32:26	8.7	778	420	11.3	203	226
+Azir Azir	13	41	75%	6	7	46%	2.9	3.4	1.62	33:23	8.7	720	416	1.4	147	179
+Neeko Neeko	16	34	69%	9	7	56%	2.9	5.1	1.56	32:09	1.2	354	260	-1.8	208	-71
+Sion Sion	18	30	68%	13	5	72%	6.0	4.4	1.28	30:17	7.8	540	383	-2.4	-70	116
+Poppy Poppy	11	38	66%	8	3	73%	4.6	5.0	1.91	33:35	3.4	317	305	-0.4	-8	141
+Wukong Wukong	19	24	59%	12	7	63%	4.4	4.2	1.32	33:23	7.1	438	383	3.4	197	222
+Qiyana Qiyana	13	27	56%	7	6	54%	3.4	3.1	1.38	31:22	7.8	580	426	7.6	104	97
+Alistar Alistar	22	19	54%	12	10	55%	2.8	7.9	1.50	32:20	0.9	182	245	-1.7	-143	5
+Ambessa Ambessa	15	23	53%	5	10	33%	2.0	3.6	1.27	32:55	7.8	639	371	-0.9	43	118
+Taliyah Taliyah	20	16	50%	10	10	50%	4.1	5.1	1.30	32:38	8.8	706	408	-4.5	-226	-174
+Aurora Aurora	16	19	46%	8	8	50%	4.1	4.5	1.63	31:30	8.1	680	397	-8	-361	-387
+Ryze Ryze	19	15	46%	8	11	42%	2.8	5.0	1.32	32:40	8.9	633	416	0.1	38	-6
+Caitlyn Caitlyn	13	19	44%	4	9	31%	3.1	5.0	1.46	31:24	9.2	684	440	3.8	-180	-440
+Xin Zhao Xin Zhao	25	7	42%	14	11	56%	3.3	6.6	1.32	32:57	6.8	450	371	0.8	-247	-45
+Vi Vi	14	16	40%	4	10	29%	2.2	3.8	1.57	31:19	6.6	301	360	-4.6	-9	-35
+Kaisa Kaisa	17	14	40%	5	12	29%	2.6	6.8	1.65	31:12	9.4	633	446	1.6	265	107
+Rakan Rakan	18	12	37%	9	9	50%	4.4	8.2	1.67	30:42	1.1	190	256	1.7	-15	-109
+Rumble Rumble	18	12	37%	9	9	50%	3.0	6.7	1.61	32:18	7.5	670	379	8.4	216	107
+Corki Corki	18	8	35%	10	8	56%	3.5	7.8	1.33	34:25	9.0	821	437	-5.3	-431	-293
+Braum Braum	14	12	35%	8	6	57%	3.9	8.9	1.43	31:08	1.0	232	256	-2.5	-10	-120
+Bard Bard	12	14	32%	6	6	50%	4.6	3.5	1.92	32:50	1.1	247	256	-2	41	153
+KSante KSante	23	4	32%	7	16	30%	2.6	7.8	1.61	32:45	7.7	464	357	2	-100	117
+Jarvan IV Jarvan IV	18	5	28%	9	9	50%	3.5	3.2	1.44	33:28	6.5	394	361	-0.4	88	-7
+Sivir Sivir	10	13	28%	5	5	50%	4.3	8.4	1.90	31:22	9.3	849	436	-0.2	-51	114
+Ezreal Ezreal	13	6	24%	6	7	46%	5.1	8.0	1.54	31:20	9.3	818	422	-1.3	-268	210
+Trundle Trundle	15	7	23%	10	5	67%	5.9	3.6	2.00	30:48	6.8	408	383	-2.1	-71	-80
+Galio Galio	9	9	23%	6	3	67%	6.2	6.1	1.67	31:40	7.8	560	390	-16.2	-377	-262
+Xayah Xayah	11	8	22%	6	5	55%	4.5	7.6	2.09	31:05	9.4	742	440	-0.1	-339	-24
+Karma Karma	4	11	21%	2	2	50%	3.4	7.9	1.50	29:57	0.9	214	244	-6.5	-34	46
+RekSai RekSai	13	4	21%	7	6	54%	2.3	7.3	1.54	33:13	8.1	580	395	-6.7	56	-440
+Leona Leona	13	6	20%	7	6	54%	2.8	7.7	2.15	34:13	1.1	205	246	5.3	95	212
+Renekton Renekton	12	6	19%	6	6	50%	2.4	8.3	2.25	32:02	8.6	515	402	13.8	341	86
+Cassiopeia Cassiopeia	6	8	18%	3	3	50%	4.4	6.4	1.50	34:25	8.4	679	416	13.5	453	539
+Nautilus Nautilus	8	7	18%	3	5	38%	2.3	7.7	1.88	34:29	1.1	204	245	1.9	24	-169
+Annie Annie	4	9	17%	0	4	0%	0.9	7.6	1.75	31:31	7.2	602	322	0	-34	127
+Varus Varus	10	3	16%	8	2	80%	7.4	8.7	1.50	35:33	9.2	947	445	0.9	-31	-240
+Pantheon Pantheon	9	3	15%	2	7	22%	2.0	8.0	1.44	31:50	5.3	477	336	-7.9	7	-284
+Ornn Ornn	9	4	14%	6	3	67%	3.6	8.3	2.22	31:28	6.9	397	345	-10.2	-267	-354
+Draven Draven	4	7	14%	2	2	50%	4.1	7.3	2.25	30:08	9.2	657	494	3.2	1030	561
+Ziggs Ziggs	8	4	13%	5	3	63%	5.0	8.0	1.88	35:04	8.7	932	431	-2.8	-111	153
+LeBlanc LeBlanc	4	7	13%	3	1	75%	4.5	4.6	2.50	34:39	7.8	800	422	7	612	200
+Lucian Lucian	8	3	13%	4	4	50%	4.4	9.3	1.50	28:21	9.3	824	450	9.8	400	395
+Rell Rell	9	3	13%	4	5	44%	3.1	9.0	1.89	31:06	1.0	177	245	2.6	-146	-116
+Akali Akali	4	5	11%	2	2	50%	4.0	6.4	2.00	31:19	7.6	666	406	-11	-324	-382
+Mordekaiser Mordekaiser	6	2	10%	2	4	33%	1.9	4.0	1.83	33:53	7.6	599	380	-4.5	-29	-80
+Lulu Lulu	2	5	9%	0	2	0%	6.0	8.8	3.00	34:22	1.0	163	224	0.5	94	184
+Yorick Yorick	1	5	9%	0	1	0%	1.0	8.2	1.00	28:13	7.0	652	361	-2	292	-83
+Jax Jax	5	3	9%	2	3	40%	1.4	7.3	2.20	31:34	7.6	493	387	-10.2	-522	-794
+Viktor Viktor	6	2	8%	4	2	67%	6.5	8.5	2.50	32:19	8.9	882	428	9	182	234
+Jhin Jhin	4	3	7%	2	2	50%	5.8	9.7	2.50	36:57	8.8	648	406	-5.2	-120	285
+Aatrox Aatrox	4	2	7%	3	1	75%	5.9	9.5	2.50	32:36	7.6	740	390	3	119	902
+Maokai Maokai	2	2	6%	0	2	0%	0.5	3.0	1.00	38:16	5.9	508	287	0.5	-307	0
+Renata Glasc Renata Glasc	0	4	6%					9.3	-							
+Sylas Sylas	3	2	5%	0	3	0%	2.0	8.5	2.33	36:20	8.5	556	363	-3.7	-15	-141
+Nami Nami	4	0	5%	1	3	25%	3.0	-	1.25	32:27	0.9	198	231	1.5	-232	337
+Lee Sin Lee Sin	0	3	4%					6.3	-							
+Naafiri Naafiri	5	0	4%	3	2	60%	3.5	-	2.40	29:54	7.3	485	394	-2.2	26	-75
+Nocturne Nocturne	3	2	4%	2	1	67%	4.7	7.0	3.67	34:23	6.5	381	354	1	316	-65
+Yone Yone	4	1	4%	3	1	75%	9.0	9.0	2.50	32:56	9.0	702	457	-6.8	231	88
+Smolder Smolder	2	2	4%	1	1	50%	3.1	7.0	3.50	33:58	9.2	1085	429	10.5	529	162
+Ahri Ahri	1	2	3%	1	0	100%	6.5	7.5	3.00	29:25	8.8	765	460	15	692	609
+Tristana Tristana	0	2	3%					8.0	-							
+Kled Kled	1	1	3%	0	1	0%	1.0	10.0	1.00	38:23	9.4	396	434	-14	457	-218
+Pyke Pyke	0	2	3%					8.5	-							
+Hwei Hwei	3	1	3%	2	1	67%	3.5	9.0	3.33	30:13	9.0	811	415	9.3	-79	102
+Sejuani Sejuani	3	0	2%	0	3	0%	6.2	-	3.00	34:29	6.1	483	327	-13	-46	-409
+Anivia Anivia	2	0	2%	1	1	50%	2.4	-	1.50	29:48	8.0	377	377	4.5	-508	-403
+Gwen Gwen	1	1	2%	1	0	100%	2.7	10.0	2.00	58:51	7.4	764	426	-13	541	-139
+Blitzcrank Blitzcrank	1	1	2%	0	1	0%	1.4	5.0	3.00	38:07	1.0	191	211	-1	-69	-11
+Jayce Jayce	1	1	2%	0	1	0%	0.5	10.0	3.00	29:25	7.7	566	334	15	341	-1016
+Miss Fortune Miss Fortune	1	1	2%	0	1	0%	2.0	5.0	3.00	29:51	10.0	649	412	18	979	61
+Dr. Mundo Dr. Mundo	3	0	2%	3	0	100%	5.4	-	3.33	34:07	7.1	690	401	14.3	255	449
+Elise Elise	1	0	1%	0	1	0%	0.8	-	1.00	31:10	1.5	338	237	5	388	189
+Morgana Morgana	1	0	1%	0	1	0%	0.8	-	1.00	27:53	1.0	255	226	-8	-226	119
+Swain Swain	1	0	1%	0	1	0%	1.6	-	1.00	27:22	8.1	653	388	2	210	107
+Twisted Fate Twisted Fate	0	1	1%					7.0	-							
+Volibear Volibear	0	1	1%					5.0	-							
+Senna Senna	1	0	1%	0	1	0%	1.0	-	1.00	24:50	8.2	839	375	-4	-418	-361
+Vex Vex	0	1	1%					10.0	-							
+Zeri Zeri	1	0	1%	1	0	100%	21.0	-	1.00	27:00	9.5	981	573	-15	698	-1024
+Skarner Skarner	3	0	1%	0	3	0%	2.5	-	3.33	32:32	6.3	488	342	2	327	227
+Vayne Vayne	2	0	1%	1	1	50%	6.4	-	2.50	35:09	8.9	836	458	-9	278	14
+Kassadin Kassadin	1	0	1%	0	1	0%	0.7	-	2.00	26:46	8.3	401	327	-13	-599	387
+Soraka Soraka	1	0	1%	0	1	0%	1.0	-	2.00	31:34	0.9	191	199	4	-273	132
+Zed Zed	1	0	1%	0	1	0%	2.0	-	2.00	29:20	7.2	575	388	9	-154	525
+Syndra Syndra	2	0	1%	0	2	0%	3.2	-	4.50	32:20	7.9	674	363	-3.5	-312	-160
+Thresh Thresh	1	0	0%	0	1	0%	0.7	-	3.00	29:17	0.9	76	216	4	201	-52
+Ivern Ivern	1	0	0%	0	1	0%	1.0	-	3.00	29:17	5.2	170	334	-21	329	-281
+Zoe Zoe	1	0	0%	1	0	100%	19.0	-	3.00	29:19	8.2	943	491	7	909	870
+Viego Viego	1	0	0%	1	0	100%	17.0	-	3.00	29:19	7.4	649	469	-11	-1152	-757
+Nidalee Nidalee	1	0	0%	1	0	100%	16.0	-	4.00	32:03	7.7	492	409	21	339	764
+Gnar Gnar	1	0	0%	1	0	100%	2.0	-	4.00	29:24	8.5	491	407	18	-190	914
+Camille Camille	1	0	0%	0	1	0%	0.8	-	4.00	32:03	7.5	530	396	-34	-1001	-63
+Ashe Ashe	1	0	0%	1	0	100%	4.5	-	5.00	35:15	8.3	842	413	23	-291	631
+Jinx Jinx	1	0	0%	0	1	0%	14.0	-	5.00	35:15	8.1	696	395	-23	291	-631
+Seraphine Seraphine	1	0	0%	1	0	100%	5.0	-	5.00	35:15	1.0	386	272	-6	-53	-192
+Mel Mel	1	0	0%	1	0	100%	2.7	-	5.00	35:15	7.5	829	408	3	178	204
+Amumu Amumu	0	0	0%					-	-							
+Brand Brand	0	0	0%					-	-							
+Chogath Chogath	0	0	0%					-	-							
+Darius Darius	0	0	0%					-	-							
+Diana Diana	0	0	0%					-	-							
+Evelynn Evelynn	0	0	0%					-	-							
+Fiddlesticks Fiddlesticks	0	0	0%					-	-							
+Fiora Fiora	0	0	0%					-	-							
+Fizz Fizz	0	0	0%					-	-							
+Gangplank Gangplank	0	0	0%					-	-							
+Garen Garen	0	0	0%					-	-							
+Gragas Gragas	0	0	0%					-	-							
+Graves Graves	0	0	0%					-	-							
+Hecarim Hecarim	0	0	0%					-	-							
+Heimerdinger Heimerdinger	0	0	0%					-	-							
+Irelia Irelia	0	0	0%					-	-							
+Janna Janna	0	0	0%					-	-							
+Karthus Karthus	0	0	0%					-	-							
+Katarina Katarina	0	0	0%					-	-							
+Kayle Kayle	0	0	0%					-	-							
+Kennen Kennen	0	0	0%					-	-							
+KhaZix KhaZix	0	0	0%					-	-							
+KogMaw KogMaw	0	0	0%					-	-							
+Lissandra Lissandra	0	0	0%					-	-							
+Lux Lux	0	0	0%					-	-							
+Malphite Malphite	0	0	0%					-	-							
+Malzahar Malzahar	0	0	0%					-	-							
+Master Yi Master Yi	0	0	0%					-	-							
+Nasus Nasus	0	0	0%					-	-							
+Nunu Nunu	0	0	0%					-	-							
+Olaf Olaf	0	0	0%					-	-							
+Quinn Quinn	0	0	0%					-	-							
+Rammus Rammus	0	0	0%					-	-							
+Rengar Rengar	0	0	0%					-	-							
+Riven Riven	0	0	0%					-	-							
+Shaco Shaco	0	0	0%					-	-							
+Shen Shen	0	0	0%					-	-							
+Shyvana Shyvana	0	0	0%					-	-							
+Singed Singed	0	0	0%					-	-							
+Sona Sona	0	0	0%					-	-							
+Talon Talon	0	0	0%					-	-							
+Taric Taric	0	0	0%					-	-							
+Teemo Teemo	0	0	0%					-	-							
+Tryndamere Tryndamere	0	0	0%					-	-							
+Twitch Twitch	0	0	0%					-	-							
+Udyr Udyr	0	0	0%					-	-							
+Urgot Urgot	0	0	0%					-	-							
+Veigar Veigar	0	0	0%					-	-							
+Vladimir Vladimir	0	0	0%					-	-							
+Warwick Warwick	0	0	0%					-	-							
+Xerath Xerath	0	0	0%					-	-							
+Yasuo Yasuo	0	0	0%					-	-							
+Zac Zac	0	0	0%					-	-							
+Zilean Zilean	0	0	0%					-	-							
+Zyra Zyra	0	0	0%					-	-							
+Kalista Kalista	0	0	0%					-	-							
+VelKoz VelKoz	0	0	0%					-	-							
+Ekko Ekko	0	0	0%					-	-							
+Tahm Kench Tahm Kench	0	0	0%					-	-							
+Kindred Kindred	0	0	0%					-	-							
+Illaoi Illaoi	0	0	0%					-	-							
+Aurelion Sol Aurelion Sol	0	0	0%					-	-							
+Kayn Kayn	0	0	0%					-	-							
+Yuumi Yuumi	0	0	0%					-	-							
+Aphelios Aphelios	0	0	0%					-	-							
+Sett Sett	0	0	0%					-	-							
+Lillia Lillia	0	0	0%					-	-							
+Samira Samira	0	0	0%					-	-							
+Akshan Akshan	0	0	0%					-	-							
+Belveth Belveth	0	0	0%					-	-							
+Nilah Nilah	0	0	0%					-	-							
+Milio Milio	0	0	0%					-	-							
+Briar Briar	0	0	0%					-	-							
