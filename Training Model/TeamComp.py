@@ -1,18 +1,19 @@
 import pandas as pd
 import numpy as np
 import random
-from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.model_selection import train_test_split, RandomizedSearchCV
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, roc_auc_score, classification_report
+error_score = 'raise'
 
 # load and clean data
-df = pd.read_csv("Gathering Data/DraftStats.csv")
+df = pd.read_csv("DraftStats.csv")
 df.columns = df.columns.str.strip()
 
 #convert to numeric
 for col in df.columns:
-    df[col] = pd.to_numeric(df[col], errors="coerce")
-
+    if col not in ["Champion", "Role"]:
+        df[col] = pd.to_numeric(df[col], errors="coerce")
 #drop non-numeric + invalid
 df = df.dropna(subset=["Champion", "Role", "Winrate", "KDA"])
 
@@ -36,9 +37,9 @@ for _ in range(n_samples):
             team.append(random.choice(champs))
     if len(team) < len(roles):  # skip incomplete teams
         continue
-    
+
     team_stats = df[df["Champion"].isin(team)]
-    
+
     #compute average of selected features
     avg_stats = team_stats[["Winrate", "KDA", "GPM", "DPM", "XPD@15", "Wins", "PrioScore"]].mean()
 
@@ -51,7 +52,7 @@ for _ in range(n_samples):
         + 0.10 * (avg_stats["XPD@15"] / 1000)
     )
     win_prob = np.clip(score + np.random.normal(0, 0.05), 0, 1)
-    
+
     teams.append(team)
     wins.append(1 if random.random() < win_prob else 0)
 
@@ -80,13 +81,14 @@ param_grid = {
     'max_features': ['sqrt', 'log2']
 }
 
+
 rf = RandomForestClassifier(random_state=42, n_jobs=-1)
-grid = GridSearchCV(rf, param_grid, cv=3, scoring='roc_auc', n_jobs=-1, verbose=1)
+grid = RandomizedSearchCV(rf, param_grid, n_iter=20, cv=3, scoring='roc_auc', n_jobs=-1, random_state=42)
 grid.fit(X_train, y_train)
+print("Best Hyperparameters: " + str(grid.best_params_))
 
 best_model = grid.best_estimator_
 
-print("\n✅ Best Parameters:", grid.best_params_)
 
 # evaluate model
 preds = best_model.predict(X_test)
@@ -97,7 +99,7 @@ print("AUC:", roc_auc_score(y_test, probs))
 print("\nClassification Report:\n", classification_report(y_test, preds))
 
 # predict a new team
-example_team = ["Yunara", "Orianna", "Sejuani", "Aphelios", "Thresh"]
+example_team = ["K'sante", "Orianna", "Wukong", "Varus", "Neeko"]
 input_data = pd.DataFrame([[1 if champ in example_team else 0 for champ in X.columns]], columns=X.columns)
 win_prob = best_model.predict_proba(input_data)[0, 1]
 print(f"\nPredicted win probability for {example_team}: {win_prob:.3f}")
